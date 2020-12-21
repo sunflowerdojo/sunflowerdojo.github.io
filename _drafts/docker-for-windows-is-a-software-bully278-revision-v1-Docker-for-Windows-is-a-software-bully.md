@@ -9,7 +9,7 @@ permalink: /2018/09/18/278-revision-v1/
 ---
 I went to install Docker for Windows today. It told me that in order for Docker to work, I had to enable Hyper-V, which would make VirtualBox unusable. So in order for it to &#8220;work&#8221;, it needs to disable the competition. Convenient.
 
-<img loading="lazy" class="aligncenter wp-image-284 size-full" src="https://www.sunflowerdojo.com/wp-content/uploads/2018/09/docker_bully1.png" alt="System error message from Docker" width="693" height="255" srcset="https://www.sunflowerdojo.com/wp-content/uploads/2018/09/docker_bully1.png 693w, https://www.sunflowerdojo.com/wp-content/uploads/2018/09/docker_bully1-300x110.png 300w" sizes="(max-width: 693px) 100vw, 693px" /> 
+<img loading="lazy" class="aligncenter wp-image-284 size-full" src="/wp-content/uploads/2018/09/docker_bully1.png" alt="System error message from Docker" width="693" height="255" srcset="/wp-content/uploads/2018/09/docker_bully1.png 693w, /wp-content/uploads/2018/09/docker_bully1-300x110.png 300w" sizes="(max-width: 693px) 100vw, 693px" />
 
 _&#8220;Hyper-V and Containers features are not enabled. Do you want to enable them for Docker to be able to work properly? Your computer will restart automatically. Note: VirtualBox will no longer work.&#8221;_
 
