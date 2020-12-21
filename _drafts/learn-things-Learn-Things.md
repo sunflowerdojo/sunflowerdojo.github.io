@@ -10,7 +10,7 @@ Sources of knowledge and concepts. I believe the things listed here are useful, 
 
 ## Papers
 
-[What are capabilities?](http://habitatchronicles.com/2017/05/what-are-capabilities/) 
+[What are capabilities?](http://habitatchronicles.com/2017/05/what-are-capabilities/)
 
 &nbsp;
 
@@ -24,4 +24,4 @@ http://lambda-the-ultimate.org/
 
 ## Manuals
 
-[The E Programmer&#8217;s Manual](https://www.crockford.com/ec/manual.html), Douglas Crockford
+[The E Programmer's Manual](https://www.crockford.com/ec/manual.html), Douglas Crockford

@@ -1,6 +1,6 @@
 ---
 id: 171
-title: 'Don&#8217;t let your error messages be lies'
+title: 'Don't let your error messages be lies'
 date: 2017-05-01T13:57:00-04:00
 author: Mehron Kugler
 layout: post

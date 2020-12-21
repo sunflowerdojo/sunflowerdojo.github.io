@@ -17,13 +17,13 @@ Categories:
 
 ## Visual programming languages
 
-I think that having to type lines of code is something that should be automated, and instead of futzing through conditionals, loops, and other repeatable activities like type checking, error handling, I think it&#8217;s a better use of time to program with symbols and use visuals to express the flows of the application.
+I think that having to type lines of code is something that should be automated, and instead of futzing through conditionals, loops, and other repeatable activities like type checking, error handling, I think it's a better use of time to program with symbols and use visuals to express the flows of the application.
 
-**Tersus**  
+**Tersus**
 <https://en.wikipedia.org/wiki/Tersus>
 
-License: GLPv2  
-Source code: Not public  
+License: GLPv2
+Source code: Not public
 Last update: Unknown
 
 This looks promising. Its premise is drawing flow diagrams instead of writing code. But the source code is not publicly available.
@@ -34,27 +34,27 @@ These languages bring something new to the table.
 
 **E**
 
-https://github.com/erights/e-on-java/tree/master/src  
-http://erights.org/  
+https://github.com/erights/e-on-java/tree/master/src
+http://erights.org/
 http://wiki.erights.org/wiki/Main_Page
 
-License: MIT X  
+License: MIT X
 Last update: 2011
 
-The author of the language describes it as &#8220;secure distributed persistent language  
-for capability-based smart contracting&#8221;. The rationale behind its development is compelling. E language has a Java implementation and [a Lisp implementation](https://github.com/kpreid/e-on-cl). The Java release is 0.9, and there is as yet no official Lisp release.
+The author of the language describes it as "secure distributed persistent language
+for capability-based smart contracting". The rationale behind its development is compelling. E language has a Java implementation and [a Lisp implementation](https://github.com/kpreid/e-on-cl). The Java release is 0.9, and there is as yet no official Lisp release.
 
 &nbsp;
 
 **English Script / Angle**
 
-https://github.com/pannous/english-script/blob/master/DOSSIER.md  
+https://github.com/pannous/english-script/blob/master/DOSSIER.md
 https://github.com/pannous/angle
 
-License: Unknown  
+License: Unknown
 Last update: Unknown
 
-Angle is &#8220;the Python implementation of [English](https://github.com/pannous/english-script) as a programming language.&#8221; Personally I find this project extremely compelling because I have long believed that:
+Angle is "the Python implementation of [English](https://github.com/pannous/english-script) as a programming language." Personally I find this project extremely compelling because I have long believed that:
 
   * the barrier to programming computers is too high
   * personal computing assistants are terrible

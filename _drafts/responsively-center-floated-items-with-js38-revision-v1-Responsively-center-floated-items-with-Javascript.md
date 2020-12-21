@@ -9,7 +9,7 @@ permalink: /2016/12/14/38-revision-v1/
 ---
 Recently I tackled the problem of centering the floated grid of card items in my portfolio. Since they were all floated to the left, when the window grew too small and kicked off an item to the next row, there was leftover space.
 
-My portfolio (div class=&#8221;portfolio&#8221;) contains any number of portfolio items, shown in cards (div class=&#8221;card&#8221;).
+My portfolio (div class="portfolio") contains any number of portfolio items, shown in cards (div class="card").
 
 There is still a bit of leftover space which makes the display of grid items uneven (more empty space on the right than the left.)
 
@@ -48,7 +48,7 @@ window.addEventListener('resize', go);
 
 });</pre>
 
-In order for .width() to pay attention to the container&#8217;s margins, it needs to specify .width( true ).
+In order for .width() to pay attention to the container's margins, it needs to specify .width( true ).
 
 This should be applicable to any container which has items of equal sizes within, floated to the left (or right).
 

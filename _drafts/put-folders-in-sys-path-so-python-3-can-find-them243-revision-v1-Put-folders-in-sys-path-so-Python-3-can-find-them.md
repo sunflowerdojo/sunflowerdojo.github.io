@@ -11,7 +11,7 @@ Problem: I want to import a file in the same folder
 
 Problem 2: I want to import a file from a subfolder
 
-Solution: Add folder path to Python&#8217;s sys.path
+Solution: Add folder path to Python's sys.path
 
 <!--more-->Sample layout
 
@@ -34,14 +34,14 @@ Yet Python will argue
 
 Yet clearly client.py is right there in the same folder. What gives?
 
-### Solution: Add info to the folder&#8217;s \_\_init\_\_.py
+### Solution: Add info to the folder's \_\_init\_\_.py
 
 For each folder having Python files in them, add the following to the init files:
 
 <pre>import os, sys
 sys.path.append(os.path.dirname(os.path.realpath(__file__)))</pre>
 
-When Python sees the init files, it&#8217;ll now register the directory in the system path, which is where it looks to find modules/files/packages being imported.
+When Python sees the init files, it'll now register the directory in the system path, which is where it looks to find modules/files/packages being imported.
 
 So now in myapp, both of these imports will work
 

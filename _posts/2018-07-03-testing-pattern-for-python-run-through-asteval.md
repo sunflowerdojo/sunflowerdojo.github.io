@@ -15,8 +15,8 @@ An enterprise application I am developing for is processing my Python scripts u
 
 <!--more-->
 
-  
-In my current job I can upload Python scripts to an enterprise application where the scripts are executed server-side. I didn&#8217;t realize it until after a while that the server is interpreting the Python scripts through asteval, a library developed to be a safer version of &#8220;eval.&#8221; I can guess that the developers want to reduce the risk of malicious behavior on their servers by blocking imports, classes, and other built-in methods. They did document this but I didn&#8217;t understand the full extent.
+
+In my current job I can upload Python scripts to an enterprise application where the scripts are executed server-side. I didn't realize it until after a while that the server is interpreting the Python scripts through asteval, a library developed to be a safer version of "eval." I can guess that the developers want to reduce the risk of malicious behavior on their servers by blocking imports, classes, and other built-in methods. They did document this but I didn't understand the full extent.
 
 I am developing an API integration to be used server-side to communicate with a third-party API. My usual pattern is to develop a client class with standard CRUD methods, and then in my automated tests, set up mocking instances for calls to the API so that I can test my code.
 

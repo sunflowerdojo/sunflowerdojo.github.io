@@ -1,21 +1,21 @@
 ---
 id: 206
-title: 'Comparison of web browsers&#8217; window targeting'
+title: 'Comparison of web browsers' window targeting'
 date: 2018-03-27T13:51:21-04:00
 author: Mehron Kugler
 layout: revision
 guid: https://www.sunflowerdojo.com/2018/03/27/191-autosave-v1/
 permalink: /2018/03/27/191-autosave-v1/
 ---
-A web browser full of tabs is a pain to move around. The worst offenders in this category in Mac OS (11/12/13) are Opera and Chrome. It&#8217;s easy to see why.
+A web browser full of tabs is a pain to move around. The worst offenders in this category in Mac OS (11/12/13) are Opera and Chrome. It's easy to see why.
 
 <!--more-->
 
-I should be able to move my web browser application window around, easily, regardless of its state. In the Gnome desktop environment in Linux, there is a global &#8220;move a window&#8221; hotkey &#8212; press it and click on a window, and it&#8217;s simple to move the application window. This provides excellent utility across all applications.
+I should be able to move my web browser application window around, easily, regardless of its state. In the Gnome desktop environment in Linux, there is a global "move a window" hotkey &mdash; press it and click on a window, and it's simple to move the application window. This provides excellent utility across all applications.
 
-On Mac OS, there is no such &#8220;move a window&#8221; hotkey, and users are forced to click in tiny regions of web browser application windows to move them. At least some browsers in this environment do it better than others.
+On Mac OS, there is no such "move a window" hotkey, and users are forced to click in tiny regions of web browser application windows to move them. At least some browsers in this environment do it better than others.
 
-I&#8217;ve highlighted usable areas of application windows where I can grab with the mouse and move the window. Evaluation for Firefox, Chrome, Safari, Opera, Brave.
+I've highlighted usable areas of application windows where I can grab with the mouse and move the window. Evaluation for Firefox, Chrome, Safari, Opera, Brave.
 
 ### Firefox with full tabs:
 
@@ -25,7 +25,7 @@ Firefox has two accessible areas to the left and right of the search bar and URL
 
 <img loading="lazy" class="wp-image-203 aligncenter" src="/wp-content/uploads/2018/03/firefox-small-size-movability.png" alt="Targeting is acceptable for the small browser window" width="486" height="89" srcset="/wp-content/uploads/2018/03/firefox-small-size-movability.png 798w, /wp-content/uploads/2018/03/firefox-small-size-movability-300x55.png 300w, /wp-content/uploads/2018/03/firefox-small-size-movability-768x141.png 768w" sizes="(max-width: 486px) 100vw, 486px" />
 
-There&#8217;s one reliable zone next to the &#8220;Maximize&#8221; window button for targeting when the window size is reduced. **My rating: 2/5**
+There's one reliable zone next to the "Maximize" window button for targeting when the window size is reduced. **My rating: 2/5**
 
 ### Safari with full tabs:
 
@@ -35,19 +35,19 @@ Targeting with large browser window size is very good. There are large areas in 
 
 <img loading="lazy" class="aligncenter size-full wp-image-201" src="/wp-content/uploads/2018/03/safari-web-browser-smaller-movability.png" alt="Safari web browser usability when the window is small" width="1012" height="122" srcset="/wp-content/uploads/2018/03/safari-web-browser-smaller-movability.png 1012w, /wp-content/uploads/2018/03/safari-web-browser-smaller-movability-300x36.png 300w, /wp-content/uploads/2018/03/safari-web-browser-smaller-movability-768x93.png 768w" sizes="(max-width: 1012px) 100vw, 1012px" />
 
-When Safari&#8217;s window size is reduced, there is one small area of the window bar that is in a reliable location. However, that&#8217;s all there is. Collapse all the functionality icons in the top bar to improve targeting. **My rating: 3/5**
+When Safari's window size is reduced, there is one small area of the window bar that is in a reliable location. However, that's all there is. Collapse all the functionality icons in the top bar to improve targeting. **My rating: 3/5**
 
 ### Chrome with full tabs:
 
 <img loading="lazy" class="aligncenter size-full wp-image-202" src="/wp-content/uploads/2018/03/chrome-browser-macos-movability.png" alt="Chrome browser on Mac OS has only tiny places to click to move the browser window" width="2554" height="144" srcset="/wp-content/uploads/2018/03/chrome-browser-macos-movability.png 2554w, /wp-content/uploads/2018/03/chrome-browser-macos-movability-300x17.png 300w, /wp-content/uploads/2018/03/chrome-browser-macos-movability-768x43.png 768w, /wp-content/uploads/2018/03/chrome-browser-macos-movability-1024x58.png 1024w" sizes="(max-width: 2554px) 100vw, 2554px" />
 
-It&#8217;s &#8220;every user for nemself&#8221; here. You will need very precise targeting skills to click on the window itself without clicking on a tab, creating a new tab, interacting with the browser profile element, or accidentally closing, resizing, or maximizing the browser window. **My rating: 0/5**
+It's "every user for nemself" here. You will need very precise targeting skills to click on the window itself without clicking on a tab, creating a new tab, interacting with the browser profile element, or accidentally closing, resizing, or maximizing the browser window. **My rating: 0/5**
 
 ### Opera with full tabs:
 
 <img loading="lazy" class="aligncenter size-full wp-image-204" src="/wp-content/uploads/2018/03/opera-macos-movability.png" alt="Targeting is poor with Opera Browser" width="2298" height="150" srcset="/wp-content/uploads/2018/03/opera-macos-movability.png 2298w, /wp-content/uploads/2018/03/opera-macos-movability-300x20.png 300w, /wp-content/uploads/2018/03/opera-macos-movability-768x50.png 768w, /wp-content/uploads/2018/03/opera-macos-movability-1024x67.png 1024w" sizes="(max-width: 2298px) 100vw, 2298px" />
 
-Another &#8220;every user for nemself&#8221; situation, where targeting the window to move it around is challenging and requires precision, or else accidentally close a tab, create a new tab, open a context menu, or close, resize, or maximize the application. **My rating: 0/5**
+Another "every user for nemself" situation, where targeting the window to move it around is challenging and requires precision, or else accidentally close a tab, create a new tab, open a context menu, or close, resize, or maximize the application. **My rating: 0/5**
 
 ### Brave Browser
 

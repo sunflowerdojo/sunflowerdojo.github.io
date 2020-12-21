@@ -9,6 +9,6 @@ permalink: /?p=121
 categories:
   - User Experience
 ---
-I&#8217;m tired of clicking on everything. Let&#8217;s add some keyboard shortcuts in to Google&#8217;s Account Chooser window!
+I'm tired of clicking on everything. Let's add some keyboard shortcuts in to Google's Account Chooser window!
 
 <!--more-->

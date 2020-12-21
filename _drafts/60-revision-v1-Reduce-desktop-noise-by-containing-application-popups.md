@@ -7,11 +7,11 @@ layout: revision
 guid: https://www.sunflowerdojo.com/2016/12/14/60-revision-v1/
 permalink: /2016/12/14/60-revision-v1/
 ---
-Mac OS system designers introduced a Notifications panel some editions ago for the desktop OS. It&#8217;s supposed to be a place where applications can send their notifications instead of losing these notifications or overwhelming users with temporary bites of information.
+Mac OS system designers introduced a Notifications panel some editions ago for the desktop OS. It's supposed to be a place where applications can send their notifications instead of losing these notifications or overwhelming users with temporary bites of information.
 
-However, enough applications seem to forget that there is a notifications panel that I too, as a user, completely forget that there is this _place_ for _notifications_ &#8212; an entire popout panel.
+However, enough applications seem to forget that there is a notifications panel that I too, as a user, completely forget that there is this _place_ for _notifications_ &mdash; an entire popout panel.
 
-The notifications panel needs to be treated as a universal one-stop &#8220;place&#8221; for all system notifications.
+The notifications panel needs to be treated as a universal one-stop "place" for all system notifications.
 
 ### Reduce desktop noise by containing popups
 

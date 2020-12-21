@@ -12,11 +12,11 @@ tags:
   - debian
   - tty
 ---
-I enjoy using Linux and also the terminal, I don&#8217;t have a problem typing all day in front of a wall of text, but I need smaller text so I can see more of it.
+I enjoy using Linux and also the terminal, I don't have a problem typing all day in front of a wall of text, but I need smaller text so I can see more of it.
 
 **Problem: The text is too large on the console.**
 
-_Solution: Update your TTY config file with a video &#8220;mode&#8221;._
+_Solution: Update your TTY config file with a video "mode"._
 
 By console I mean the TTY console (press ctrl-alt-f1 through f6). First, make sure hwinfo is installed:
 
@@ -34,7 +34,7 @@ This looked good to me. Edit the configuration file for the TTY consoles:
 
 <pre>sudo nano /etc/default/console-setup</pre>
 
-In the field titled &#8220;VIDEOMODE&#8221;, add the code of the video mode you&#8217;d like. I put:
+In the field titled "VIDEOMODE", add the code of the video mode you'd like. I put:
 
 <pre>VIDEOMODE=0x031b</pre>
 

@@ -11,17 +11,17 @@ categories:
 ---
 **SPF Framework reduces email fraud and spoofing**
 
-Email frauds and scams are successful in part because the email of the sender appears to be from a legitimate source. Sender Policy Framework (SPF) allows email servers to double check that an email came from an authorized source, and reject mail before it lands in anyone&#8217;s inbox.
+Email frauds and scams are successful in part because the email of the sender appears to be from a legitimate source. Sender Policy Framework (SPF) allows email servers to double check that an email came from an authorized source, and reject mail before it lands in anyone's inbox.
 
-A SPF record is a DNS TXT record published by a domain which lists the specific IP addresses or names of servers which are permitted to send its mail. A SPF-aware email server handling incoming mail will check the source IP of a message against the SPF record listed for the incoming message&#8217;s domain before passing the message to the destination inbox.
+A SPF record is a DNS TXT record published by a domain which lists the specific IP addresses or names of servers which are permitted to send its mail. A SPF-aware email server handling incoming mail will check the source IP of a message against the SPF record listed for the incoming message's domain before passing the message to the destination inbox.
 
 A domain may publish a SPF record, and mail servers may be SPF-aware, but this does not prevent spam — there is no heuristic engine built in to SPF to analyze message contents. SPF is simply a gatekeeper, typically assuming any received mail is “guilty” of fraudulence unless proven innocent.
 
-SPF is primarily useful in protecting any outside emails from being sent using your domain name and reducing fraud attempts against your customer base, because a spammer won&#8217;t be able to fake an email address from your domain. If he/she has actually compromised a server within a SPF-protected domain, it becomes more traceable.
+SPF is primarily useful in protecting any outside emails from being sent using your domain name and reducing fraud attempts against your customer base, because a spammer won't be able to fake an email address from your domain. If he/she has actually compromised a server within a SPF-protected domain, it becomes more traceable.
 
 A second benefit of SPF is it reduces backscatter_,_ an indirect method of spam caused when a spammer uses a domain, or more specifically a specific email address (spoofing), as the “from” or “reply-to” address while hammering thousands of targets, invalid or not.
 
-Typically, in a backscatter strategy, the contents of the spam message will still be delivered to the from/reply-to address, only encapsulated by scores of “Your message could not be delivered”, “bulk unsolicited email” and other server warning replies. A SPF-aware server will see that the spoofed sender email address isn&#8217;t from an authorized source, and will block it whether or not the destination address actually exists.
+Typically, in a backscatter strategy, the contents of the spam message will still be delivered to the from/reply-to address, only encapsulated by scores of “Your message could not be delivered”, “bulk unsolicited email” and other server warning replies. A SPF-aware server will see that the spoofed sender email address isn't from an authorized source, and will block it whether or not the destination address actually exists.
 
 ## **Limitations**
 
@@ -31,9 +31,9 @@ SPF in some cases can break mail forwarding from outside the domain to within, w
 
 ## **Implementation**
 
-Naturally, email servers need to be SPF-aware to take advantage of a domain&#8217;s SPF record. A number of mail servers natively support SPF, including Courier, Exim, Communigate Pro — see [www.openspf.org/implementations](http://www.openspf.org/implementations) for the full list as well as extensions and patches for existing mail servers (Postfix, Sendmail, IIS, Exchange). Add the appropriate extensions your email servers and coordinate with business partners to do the same.
+Naturally, email servers need to be SPF-aware to take advantage of a domain's SPF record. A number of mail servers natively support SPF, including Courier, Exim, Communigate Pro — see [www.openspf.org/implementations](http://www.openspf.org/implementations) for the full list as well as extensions and patches for existing mail servers (Postfix, Sendmail, IIS, Exchange). Add the appropriate extensions your email servers and coordinate with business partners to do the same.
 
-A SPF policy is a DNS TXT record, specifies the SPF version used, contains a list of permitted sources or matching methods (called “mechanisms”), typically followed by “-all” or some variation. A framework query tool is available for looking up a domain&#8217;s SPF record ([www.spf-all.com](http://www.spf-all.com/)), used in the following SPF implementation examples.
+A SPF policy is a DNS TXT record, specifies the SPF version used, contains a list of permitted sources or matching methods (called “mechanisms”), typically followed by “-all” or some variation. A framework query tool is available for looking up a domain's SPF record ([www.spf-all.com](http://www.spf-all.com/)), used in the following SPF implementation examples.
 
 Complete syntax documentation is [available here](about:blank).
 
@@ -65,7 +65,7 @@ This record delegates all SPF checking to the spf1 and spf2.amazon.com servers, 
 
 &nbsp;
 
-**Example 3: Set up a SPF record for example.com using specific IP addresses of example.com&#8217;s mail servers, and block all other sender origins:**
+**Example 3: Set up a SPF record for example.com using specific IP addresses of example.com's mail servers, and block all other sender origins:**
 
 <pre>example.com IN TXT “v=spf1 ip4:192.168.34.2 ip4:192.168.35.6 -all”</pre>
 

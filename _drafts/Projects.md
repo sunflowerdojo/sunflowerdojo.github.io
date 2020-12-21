@@ -6,7 +6,7 @@ author: Mehron Kugler
 layout: page
 guid: https://www.sunflowerdojo.com/?page_id=318
 ---
-An overview of some of the projects I&#8217;ve worked on, from most recent to earliest.
+An overview of some of the projects I've worked on, from most recent to earliest.
 
 &nbsp;
 

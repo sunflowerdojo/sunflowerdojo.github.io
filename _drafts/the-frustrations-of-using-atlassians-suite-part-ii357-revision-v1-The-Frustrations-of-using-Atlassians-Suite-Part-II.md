@@ -7,18 +7,18 @@ layout: revision
 guid: https://www.sunflowerdojo.com/2020/09/11/357-revision-v1/
 permalink: /2020/09/11/357-revision-v1/
 ---
-It&#8217;s the little things that change over time that make a product less enjoyable to use. It&#8217;s sad to see users&#8217; control and freedom being slowly eroded over time.
+It's the little things that change over time that make a product less enjoyable to use. It's sad to see users' control and freedom being slowly eroded over time.
 
 **Unexpected Jira changes**
 
 As of the time of writing this post:
 
-  * Right-clicking in the scrum view on stories and tickets does not show the browser&#8217;s context menu; right-clicking has been hijacked by Jira and presents its own context menu
+  * Right-clicking in the scrum view on stories and tickets does not show the browser's context menu; right-clicking has been hijacked by Jira and presents its own context menu
   * Left-clicking in the scrum view on story numbers does not always open the story, for whatever reason, and makes me feel like an idiot
 
 This breaks my expectations that:
 
-  * Right clicking anywhere in the page will give me the browser&#8217;s context menu so I can debug the UI
+  * Right clicking anywhere in the page will give me the browser's context menu so I can debug the UI
   * Left clicking on story numbers will always open the story
 
 **Unexpected Bitbucket changes**

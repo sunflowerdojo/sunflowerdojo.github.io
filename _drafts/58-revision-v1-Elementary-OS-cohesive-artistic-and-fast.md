@@ -7,7 +7,7 @@ layout: revision
 guid: https://www.sunflowerdojo.com/2016/12/14/58-revision-v1/
 permalink: /2016/12/14/58-revision-v1/
 ---
-I really enjoy Elementary OS. It&#8217;s a fabulous, cohesive desktop experience. I want to feel like I&#8217;m interacting with layers of art, intention, and to know just by looking that someone else wanted me to have a good time using their application.
+I really enjoy Elementary OS. It's a fabulous, cohesive desktop experience. I want to feel like I'm interacting with layers of art, intention, and to know just by looking that someone else wanted me to have a good time using their application.
 
 Elementary OS is a fabulous desktop experience. It is a pixel-perfect plethora of good design choices: apps behave in expected ways. Apps can be found in one place. They are added in one place. And so on.
 

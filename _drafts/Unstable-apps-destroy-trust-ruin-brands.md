@@ -18,4 +18,4 @@ I installed my favorite open source apps, and started Chromium. After about a mi
 
 &nbsp;
 
-&#8212; also write bit about Firefox, latest version, dropdowns don&#8217;t work.
+&mdash; also write bit about Firefox, latest version, dropdowns don't work.

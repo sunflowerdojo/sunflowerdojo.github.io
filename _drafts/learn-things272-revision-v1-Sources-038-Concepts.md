@@ -7,7 +7,7 @@ layout: revision
 guid: https://www.sunflowerdojo.com/2018/07/19/272-revision-v1/
 permalink: /2018/07/19/272-revision-v1/
 ---
-Sources of knowledge and concepts. I don&#8217;t fully understand all of them but I believe the things listed here are useful, relevant, and worth learning.
+Sources of knowledge and concepts. I don't fully understand all of them but I believe the things listed here are useful, relevant, and worth learning.
 
 ## Papers
 
