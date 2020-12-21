@@ -1,6 +1,6 @@
 ---
 id: 344
-title: 'The Frustrations of using Atlassian's Jira'
+title: The Frustrations of using Atlassian's Jira
 date: 2020-06-17T14:06:23-04:00
 author: Mehron Kugler
 layout: post
