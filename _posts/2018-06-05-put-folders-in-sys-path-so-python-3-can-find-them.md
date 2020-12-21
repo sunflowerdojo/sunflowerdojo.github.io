@@ -5,7 +5,6 @@ date: 2018-06-05T09:14:04-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=243
-permalink: /2018/06/05/put-folders-in-sys-path-so-python-3-can-find-them/
 categories:
   - Coding
 tags:

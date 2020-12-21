@@ -5,7 +5,6 @@ date: 2018-09-24T22:26:03-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=322
-permalink: /2018/09/24/build-windows-executable-from-python-3-6-package/
 categories:
   - Coding
 tags:

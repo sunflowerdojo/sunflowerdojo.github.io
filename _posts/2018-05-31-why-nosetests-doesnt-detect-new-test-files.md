@@ -5,7 +5,6 @@ date: 2018-05-31T11:08:49-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=244
-permalink: /2018/05/31/why-nosetests-doesnt-detect-new-test-files/
 categories:
   - Coding
 tags:

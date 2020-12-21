@@ -5,7 +5,6 @@ date: 2020-06-17T14:06:23-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=344
-permalink: /2020/06/17/the-frustrations-of-using-atlassians-jira/
 categories:
   - Apps Behaving Badly
 ---

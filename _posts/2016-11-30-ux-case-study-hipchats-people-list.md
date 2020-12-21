@@ -5,7 +5,6 @@ date: 2016-11-30T16:55:32-05:00
 author: Mehron Kugler
 layout: post
 guid: http://www.sunflowerdojo.com/?p=104
-permalink: /2016/11/30/ux-case-study-hipchats-people-list/
 categories:
   - User Experience
 tags:

@@ -3,3 +3,4 @@ name: Sunflower Dojo Design
 description: >
   Design, Coding, and Linux blog by Mehron
   Kugler
+permalink: /:year/:month/:day/:title:output_ext

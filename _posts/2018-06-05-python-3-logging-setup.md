@@ -5,7 +5,6 @@ date: 2018-06-05T09:28:16-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=254
-permalink: /2018/06/05/python-3-logging-setup/
 categories:
   - Coding
 tags:
@@ -37,7 +36,7 @@ logger.setLevel(logging.INFO)<br />
 # https://mail.python.org/pipermail/python-list/2010-March/572131.html<br />
 from logging.getLogger().setLevel(logging.INFO)`
 
-Then log messages like so:  
+Then log messages like so:
 `logger.info("This is working now")<br />
 logger.debug("A behind-the-scenes message")<br />
 logger.warn("This post is getting too long")`

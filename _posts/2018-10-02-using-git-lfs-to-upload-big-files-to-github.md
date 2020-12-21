@@ -5,7 +5,6 @@ date: 2018-10-02T16:42:51-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=332
-permalink: /2018/10/02/using-git-lfs-to-upload-big-files-to-github/
 categories:
   - Coding
 ---

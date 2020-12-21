@@ -5,7 +5,6 @@ date: 2018-09-18T20:12:52-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=278
-permalink: /2018/09/18/docker-for-windows-is-a-software-bully/
 categories:
   - Apps Behaving Badly
 ---

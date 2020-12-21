@@ -5,7 +5,6 @@ date: 2018-03-27T12:09:56-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=185
-permalink: /2018/03/27/always-reveal-and-document-useful-functionality/
 categories:
   - Apps Behaving Badly
   - User Experience

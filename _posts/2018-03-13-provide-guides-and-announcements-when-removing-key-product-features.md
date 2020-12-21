@@ -5,7 +5,6 @@ date: 2018-03-13T15:12:50-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=186
-permalink: /2018/03/13/provide-guides-and-announcements-when-removing-key-product-features/
 categories:
   - Apps Behaving Badly
   - User Experience

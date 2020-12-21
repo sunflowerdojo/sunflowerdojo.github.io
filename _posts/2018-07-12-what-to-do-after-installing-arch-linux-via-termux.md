@@ -5,7 +5,6 @@ date: 2018-07-12T22:48:10-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=265
-permalink: /2018/07/12/what-to-do-after-installing-arch-linux-via-termux/
 categories:
   - Linux
 ---

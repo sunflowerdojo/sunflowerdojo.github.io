@@ -5,7 +5,6 @@ date: 2015-03-19T21:36:58-04:00
 author: Mehron Kugler
 layout: post
 guid: http://cabriolegraphics.com/blog/?p=12
-permalink: /2015/03/19/change-console-tty-resolution-on-debian-wheezy/
 categories:
   - Linux
 tags:

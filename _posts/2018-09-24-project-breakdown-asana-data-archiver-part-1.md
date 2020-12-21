@@ -5,7 +5,6 @@ date: 2018-09-24T13:28:33-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=298
-permalink: /2018/09/24/project-breakdown-asana-data-archiver-part-1/
 categories:
   - Coding
   - Design Projects

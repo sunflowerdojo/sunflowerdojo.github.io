@@ -5,7 +5,6 @@ date: 2020-06-24T13:39:51-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=354
-permalink: /2020/06/24/when-apps-behave-badly-whos-to-blame/
 categories:
   - Apps Behaving Badly
 ---

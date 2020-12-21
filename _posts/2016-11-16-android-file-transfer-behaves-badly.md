@@ -5,7 +5,6 @@ date: 2016-11-16T17:58:30-05:00
 author: Mehron Kugler
 layout: post
 guid: http://www.sunflowerdojo.com/?p=56
-permalink: /2016/11/16/android-file-transfer-behaves-badly/
 categories:
   - Apps Behaving Badly
 tags:

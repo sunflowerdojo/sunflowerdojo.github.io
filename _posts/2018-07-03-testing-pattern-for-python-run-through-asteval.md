@@ -5,7 +5,6 @@ date: 2018-07-03T16:50:26-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=259
-permalink: /2018/07/03/testing-pattern-for-python-run-through-asteval/
 categories:
   - Coding
 tags:

@@ -5,7 +5,6 @@ date: 2018-09-18T20:16:38-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=287
-permalink: /2018/09/18/windows-still-doesnt-like-competition-in-its-own-platform/
 categories:
   - Apps Behaving Badly
 ---

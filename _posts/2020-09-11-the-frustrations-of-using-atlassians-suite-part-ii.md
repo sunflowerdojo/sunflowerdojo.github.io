@@ -5,7 +5,6 @@ date: 2020-09-11T13:34:56-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=357
-permalink: /2020/09/11/the-frustrations-of-using-atlassians-suite-part-ii/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,6 @@ date: 2015-07-01T10:47:04-04:00
 author: Mehron Kugler
 layout: post
 guid: https://www.sunflowerdojo.com/?p=192
-permalink: /2015/07/01/verify-email-sources-with-sender-policy-framework/
 categories:
   - Technology
 ---
