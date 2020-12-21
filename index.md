@@ -5,8 +5,7 @@ permalink: /
 date: 2020-12-08T22:10:00-05:00
 author: Mehron Kugler
 ---
-
-<h1>Sunflower Dojo: UX &amp; Software Dev blog</h1>
+<h1>Design, Coding, and Linux blog by Mehron Kugler</h1>
 
 <nav>
   {% for item in site.data.navigation %}
