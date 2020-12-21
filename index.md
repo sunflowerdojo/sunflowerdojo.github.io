@@ -6,8 +6,7 @@ date: 2020-12-08T22:10:00-05:00
 author: Mehron Kugler
 ---
 
-It's a new look and feel for this blog site.
-More coming soon.
+<h1>Sunflower Dojo: UX &amp; Software Dev blog</h1>
 
 <nav>
   {% for item in site.data.navigation %}
@@ -16,3 +15,14 @@ More coming soon.
     </a>
   {% endfor %}
 </nav>
+
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts limit:3 %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
