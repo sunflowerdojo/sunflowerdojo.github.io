@@ -1,5 +1,5 @@
 ---
-title: "Proposal: Return to the static web for blog sites and news"
+title: "Proposal - Return to the static web for blog sites and news"
 date: 2020-11-24T14:58:16-05:00
 author: Mehron Kugler
 layout: post

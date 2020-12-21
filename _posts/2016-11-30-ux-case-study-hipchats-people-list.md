@@ -1,5 +1,5 @@
 ---
-title: 'UX Case Study: Hipchat's "People" list'
+title: "UX Case Study: Hipchat's People list"
 date: 2016-11-30T16:55:32-05:00
 author: Mehron Kugler
 layout: post
