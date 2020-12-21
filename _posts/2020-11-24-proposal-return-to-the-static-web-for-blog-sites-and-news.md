@@ -1,10 +1,8 @@
 ---
-id: 360
 title: Proposal: Return to the static web for blog sites and news
 date: 2020-11-24T14:58:16-05:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=360
 categories:
   - Technology
   - Writing

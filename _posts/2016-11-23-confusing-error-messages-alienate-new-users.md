@@ -1,10 +1,8 @@
 ---
-id: 93
 title: 'What do you mean my system doesn't meet your requirements?'
 date: 2016-11-23T06:07:10-05:00
 author: Mehron Kugler
 layout: post
-guid: http://www.sunflowerdojo.com/?p=93
 categories:
   - User Experience
   - Writing

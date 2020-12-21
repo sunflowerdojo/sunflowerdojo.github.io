@@ -1,10 +1,8 @@
 ---
-id: 83
 title: PHP Menu Highlighter
 date: 2015-03-19T17:40:48-04:00
 author: Mehron Kugler
 layout: post
-guid: http://cabriolegraphics.com/blog/?p=5
 categories:
   - Coding
 tags:

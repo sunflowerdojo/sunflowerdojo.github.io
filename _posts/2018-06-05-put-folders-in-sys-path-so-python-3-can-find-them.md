@@ -1,10 +1,8 @@
 ---
-id: 243
 title: Put folders in sys path so Python 3 can find them
 date: 2018-06-05T09:14:04-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=243
 categories:
   - Coding
 tags:

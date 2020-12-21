@@ -1,10 +1,8 @@
 ---
-id: 186
 title: Provide guides and announcements when removing key product features
 date: 2018-03-13T15:12:50-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=186
 categories:
   - Apps Behaving Badly
   - User Experience

@@ -1,10 +1,8 @@
 ---
-id: 357
 title: The Frustrations of using Atlassian’s Suite, Part II
 date: 2020-09-11T13:34:56-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=357
 categories:
   - Uncategorized
 ---

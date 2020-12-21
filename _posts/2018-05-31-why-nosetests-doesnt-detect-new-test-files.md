@@ -1,10 +1,8 @@
 ---
-id: 244
 title: Remove executable flag from Python files so nosetests can find them
 date: 2018-05-31T11:08:49-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=244
 categories:
   - Coding
 tags:

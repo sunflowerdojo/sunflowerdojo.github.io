@@ -1,10 +1,8 @@
 ---
-id: 18
 title: Smooth scroll to webpage elements using jQuery
 date: 2015-05-15T15:58:29-04:00
 author: Mehron Kugler
 layout: post
-guid: http://cabriolegraphics.com/blog/?p=18
 categories:
   - Coding
 tags:

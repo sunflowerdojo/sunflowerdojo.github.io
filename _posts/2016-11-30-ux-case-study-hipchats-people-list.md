@@ -1,10 +1,8 @@
 ---
-id: 104
 title: 'UX Case Study: Hipchat's "People" list'
 date: 2016-11-30T16:55:32-05:00
 author: Mehron Kugler
 layout: post
-guid: http://www.sunflowerdojo.com/?p=104
 categories:
   - User Experience
 tags:

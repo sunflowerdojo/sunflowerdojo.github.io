@@ -1,10 +1,8 @@
 ---
-id: 192
 title: Verify email sources with Sender Policy Framework
 date: 2015-07-01T10:47:04-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=192
 categories:
   - Technology
 ---

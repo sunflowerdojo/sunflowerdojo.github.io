@@ -1,10 +1,8 @@
 ---
-id: 191
 title: 'Comparison of web browsers' window targeting'
 date: 2018-03-27T12:49:45-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=191
 categories:
   - User Experience
 ---

@@ -1,10 +1,8 @@
 ---
-id: 354
 title: When apps behave badly, who's to blame?
 date: 2020-06-24T13:39:51-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=354
 categories:
   - Apps Behaving Badly
 ---

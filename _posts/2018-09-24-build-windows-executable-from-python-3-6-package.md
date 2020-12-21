@@ -1,10 +1,8 @@
 ---
-id: 322
 title: Build Windows executable from Python 3.6 package
 date: 2018-09-24T22:26:03-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=322
 categories:
   - Coding
 tags:

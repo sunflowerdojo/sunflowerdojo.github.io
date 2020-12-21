@@ -1,10 +1,8 @@
 ---
-id: 210
 title: Passive-aggressive system notifications disempower users
 date: 2018-04-01T19:16:13-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=210
 categories:
   - Apps Behaving Badly
   - User Experience

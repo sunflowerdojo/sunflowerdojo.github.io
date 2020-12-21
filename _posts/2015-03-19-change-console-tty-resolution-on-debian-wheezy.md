@@ -1,10 +1,8 @@
 ---
-id: 12
 title: Change console (tty) resolution on Debian Wheezy
 date: 2015-03-19T21:36:58-04:00
 author: Mehron Kugler
 layout: post
-guid: http://cabriolegraphics.com/blog/?p=12
 categories:
   - Linux
 tags:

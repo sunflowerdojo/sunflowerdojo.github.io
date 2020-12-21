@@ -1,10 +1,8 @@
 ---
-id: 278
 title: Docker for Windows is a software bully
 date: 2018-09-18T20:12:52-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=278
 categories:
   - Apps Behaving Badly
 ---

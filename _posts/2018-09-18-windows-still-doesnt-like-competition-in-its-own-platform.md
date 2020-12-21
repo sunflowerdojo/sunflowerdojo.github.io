@@ -1,10 +1,8 @@
 ---
-id: 287
 title: Windows still doesn't like competition in its own platform
 date: 2018-09-18T20:16:38-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=287
 categories:
   - Apps Behaving Badly
 ---

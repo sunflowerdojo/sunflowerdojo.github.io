@@ -1,10 +1,8 @@
 ---
-id: 344
 title: The Frustrations of using Atlassian's Jira
 date: 2020-06-17T14:06:23-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=344
 categories:
   - Apps Behaving Badly
 ---

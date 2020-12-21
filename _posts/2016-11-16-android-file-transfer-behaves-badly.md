@@ -1,10 +1,8 @@
 ---
-id: 56
 title: Android File Transfer behaves badly
 date: 2016-11-16T17:58:30-05:00
 author: Mehron Kugler
 layout: post
-guid: http://www.sunflowerdojo.com/?p=56
 categories:
   - Apps Behaving Badly
 tags:

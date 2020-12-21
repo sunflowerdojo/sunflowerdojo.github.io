@@ -1,10 +1,8 @@
 ---
-id: 185
 title: Always reveal and document useful functionality
 date: 2018-03-27T12:09:56-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=185
 categories:
   - Apps Behaving Badly
   - User Experience

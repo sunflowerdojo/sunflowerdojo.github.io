@@ -1,10 +1,8 @@
 ---
-id: 259
 title: Testing pattern for Python run through asteval
 date: 2018-07-03T16:50:26-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=259
 categories:
   - Coding
 tags:

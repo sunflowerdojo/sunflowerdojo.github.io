@@ -1,10 +1,8 @@
 ---
-id: 181
 title: The currency of happiness is art
 date: 2018-01-10T19:43:20-05:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=181
 categories:
   - Philosophy
 ---

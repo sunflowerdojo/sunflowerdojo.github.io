@@ -1,10 +1,8 @@
 ---
-id: 265
 title: What to do after installing Arch Linux via Termux
 date: 2018-07-12T22:48:10-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=265
 categories:
   - Linux
 ---

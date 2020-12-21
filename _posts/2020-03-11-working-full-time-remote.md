@@ -1,10 +1,8 @@
 ---
-id: 337
 title: Working full-time remote
 date: 2020-03-11T00:03:21-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=337
 categories:
   - Uncategorized
 ---

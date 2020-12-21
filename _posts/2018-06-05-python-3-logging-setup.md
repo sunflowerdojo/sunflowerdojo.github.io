@@ -1,10 +1,8 @@
 ---
-id: 254
 title: Python 3 logging setup
 date: 2018-06-05T09:28:16-04:00
 author: Mehron Kugler
 layout: post
-guid: https://www.sunflowerdojo.com/?p=254
 categories:
   - Coding
 tags:
